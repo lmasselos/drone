@@ -24,7 +24,6 @@ Cylon.robot()
 
 // Fly the bot
 function fly(robot) {
-
    bot = robot;
 
     bot.drone.disableEmergency();
